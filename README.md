@@ -1,0 +1,2 @@
+- colorscheme: <https://github.com/zatchheems/tokyo-night-alacritty-theme>
+- Command + L as tmux binding
